@@ -6,4 +6,4 @@
 - I also do other activities for fun and enjoyment😊
 - I will be very happy to receive your feedback and use them💖 
 - <a href="">My instagram</a>
-- <a href="https://twitter.com/Amirmohammad_kz>My Twitter</a>
+- <a href="https://twitter.com/Amirmohammad_kz" target="_blank">My Twitter</a>
