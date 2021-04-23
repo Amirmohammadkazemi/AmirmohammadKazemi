@@ -1,6 +1,6 @@
 - Hello friends, I am AmirMohammad👋
 - Computer engineering student and a happy geek guy👨‍💻
-- I am an Iranian programmer
+- I am an Iranian programmer.
 - My field of work is robotics and artificial intelligence, web design, operating system development and kernel writing.
 - I also want to write the Cryptocurrency and blockchain.
 - I also do other activities for fun and enjoyment😊
