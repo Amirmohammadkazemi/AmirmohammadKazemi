@@ -9,4 +9,4 @@
 - I will be very happy to receive your feedback and use them💖 
 - <a href="">My instagram</a>
 - <a href="https://twitter.com/Amirmohammad_kz" target="_blank">My Twitter</a>
-- <image src="![image](https://user-images.githubusercontent.com/78997499/115860227-773bb600-a446-11eb-95a3-2eeeac038245.png)"></image>
+- ![image](https://user-images.githubusercontent.com/78997499/115860227-773bb600-a446-11eb-95a3-2eeeac038245.png)"
