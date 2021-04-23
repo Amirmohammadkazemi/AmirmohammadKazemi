@@ -7,8 +7,7 @@
 - Sometimes I try to write Cryptocurrency and blockchain.
 - I also do other activities for fun and enjoyment😊
 - I will be very happy to receive your feedback and use them💖 
-- <a href="">My instagram</a>
-- <a href="https://twitter.com/Amirmohammad_kz" target="_blank">My Twitter</a>
+- <a href="">My instagram</a> || <a href="https://twitter.com/Amirmohammad_kz" target="_blank">My Twitter</a>
 <p align="center">
   <img src=https://github-readme-stats.vercel.app/api?username=AmirmohammadKazemi&bg_color=191b1f&title_color=36beb6&text_color=fff&line_height=20&hide=["stars"] />
 </p>
