@@ -8,9 +8,8 @@
 - I also do other activities for fun and enjoyment😊
 - I will be very happy to receive your feedback and use them💖 
 - <a href="">My instagram</a> || <a href="https://twitter.com/Amirmohammad_kz" target="_blank">My Twitter</a>
-- ![GitHub language count](https://img.shields.io/github/languages/count/AmirmohammadKazemi/AmirmohammadKazemi?color=blue&label=go&logo=go)
-![GitHub language count](https://img.shields.io/github/languages/count/AmirmohammadKazemi/AmirmohammadKazemi?label=python&logo=python)
-![GitHub language count](https://img.shields.io/github/languages/count/AmirmohammadKazemi/AmirmohammadKazemi?color=green&label=C&logo=c&logo=c)
+- ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FAmirmohammad_kz)
+![Twitch Status](https://img.shields.io/twitch/status/happy_geek_guy?label=Teitch%20channel&logo=Twitch&style=social)
 
 <p align="center">
   <img src=https://github-readme-stats.vercel.app/api?username=AmirmohammadKazemi&bg_color=191b1f&title_color=36beb6&text_color=fff&line_height=20&hide=["stars"] />
