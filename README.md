@@ -10,7 +10,7 @@
 - <a href="">My instagram</a> || <a href="https://twitter.com/Amirmohammad_kz" target="_blank">My Twitter</a>
 - ![GitHub language count](https://img.shields.io/github/languages/count/AmirmohammadKazemi/AmirmohammadKazemi?color=blue&label=go&logo=go)
 ![GitHub language count](https://img.shields.io/github/languages/count/AmirmohammadKazemi/AmirmohammadKazemi?label=python&logo=python)
-![GitHub language count](https://img.shields.io/github/languages/count/AmirmohammadKazemi/AmirmohammadKazemi?color=green&label=C&logo=c&logoColor=green)
+![GitHub language count](https://img.shields.io/github/languages/count/AmirmohammadKazemi/AmirmohammadKazemi?color=green&label=C&logo=c&logo=c)
 
 <p align="center">
   <img src=https://github-readme-stats.vercel.app/api?username=AmirmohammadKazemi&bg_color=191b1f&title_color=36beb6&text_color=fff&line_height=20&hide=["stars"] />
