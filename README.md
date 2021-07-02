@@ -7,7 +7,7 @@
 - Sometimes I try to write Cryptocurrency and blockchain.
 - I also do other activities for fun and enjoyment😊
 - I will be very happy to receive your feedback and use them💖 
-- <a href="">My instagram</a> || <a href="https://twitter.com/Amirmohammad_kz" target="_blank">My Twitter</a>
+- <a href="https://www.instagram.com/platinum_offitial/">My instagram</a> || <a href="https://twitter.com/Amirmohammad_kz" target="_blank">My Twitter</a> || <a href="https://gitlab.com/amirmohammadkazemi2002" target="_blank">My Gitlab</a>
 - ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FAmirmohammad_kz)
 ![Twitch Status](https://img.shields.io/twitch/status/happy_geek_guy?label=Teitch%20channel&logo=Twitch&style=social)
 
