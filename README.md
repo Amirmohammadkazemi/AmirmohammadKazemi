@@ -13,6 +13,4 @@
   <img src=https://github-readme-stats.vercel.app/api?username=AmirmohammadKazemi&bg_color=191b1f&title_color=36beb6&text_color=fff&line_height=20&hide=["stars"] />
 </p>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 ![Flag_of_Iran_in_map](https://user-images.githubusercontent.com/78997499/115862313-3ee9a700-a449-11eb-8773-a8d690cc9b1e.png)
