@@ -1,16 +1,33 @@
-### Hello friends. Wellcome to my GitHub page ###
 ***About me:***
-- Hello friends, I am AmirMohammad (You can call me Shahin or Amir)👋
-- I'm computer engineering student and a happy geek guy👨‍💻 and Iranian programmer.
-- My field of work is Robotics and Artificial Intelligence, Back-End, operating system development and kernel writing.
-- I also do other activities for fun and enjoyment😊
-- I will be very happy to receive your feedback and use them💖 
-- <a href="https://www.instagram.com/adventurer_guy12">My instagram</a> || <a href="https://twitter.com/Amirmohammad_kz" target="_blank">My Twitter</a> || <a href="https://gitlab.com/AmirmohammadKazemi" target="_blank">My Gitlab</a>
-- ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FAmirmohammad_kz)
-![Twitch Status](https://img.shields.io/twitch/status/happy_geek_guy?label=Teitch%20channel&logo=Twitch&style=social)
+- Hello friends, I am AmirMohammad (You can call me Shahin or Amir)👋 <img align="center" alt="C" height="60" width="70" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/279/flag-iran_1f1ee-1f1f7.png">
+- My field of work is Robotics and Artificial Intelligence, Back-End, operating system development and kernel writing
+##
+<div align="center">
+<a href="https://www.youtube.com/channel/UCpZMMVwk9UJFW1Plhv_kw8w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/adventurer_guy12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/happy_geek_guy" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/Amirmohammad_kz" target="_blank"><img src="https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+<a href = "mailto:shahinmail12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+<div align="center" style="display: inline_block">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
 
+##
 <p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=AmirmohammadKazemi&bg_color=191b1f&title_color=36beb6&text_color=fff&line_height=20&hide=["stars"] />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirmohammadKazemi&layout=compact&langs_count=7&theme=radical&&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirmohammadKazemi&layout=compact&langs_count=12&theme=radical"/>
 </p>
 
-![Flag_of_Iran_in_map](https://user-images.githubusercontent.com/78997499/115862313-3ee9a700-a449-11eb-8773-a8d690cc9b1e.png)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
