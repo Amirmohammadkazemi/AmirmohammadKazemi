@@ -26,8 +26,8 @@
 
 ##
 <p align="left">
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=AmirmohammadKazemi&layout=compact&langs_count=7&theme=radical&&show_icons=true" />
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirmohammadKazemi&layout=compact&langs_count=12&theme=radical"/>
+  <img height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=AmirmohammadKazemi&layout=compact&langs_count=7&theme=radical&&show_icons=true" />
+  <img height="200" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirmohammadKazemi&layout=compact&langs_count=12&theme=radical"/>
 </p>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
