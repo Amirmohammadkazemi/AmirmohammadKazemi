@@ -26,10 +26,10 @@
 
 ##
 
-[![Amirmohammad KAzemi GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AmirmohammadKAzemi&theme=dracula)](https://git.io/praveenscience)
+[![Amirmohammad KAzemi GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AmirmohammadKAzemi&theme=redical)](https://git.io/praveenscience)
 
 | ![AmirmohammadKAzemi's github stats](https://github-readme-stats.vercel.app/api?username=AmirmohammadKAzemi&show_icons=true&theme=radical) | ![Amirmohammad Kazemi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmirmohammadKAzemi&theme=radical) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirmohammadKazemi&layout=compact&langs_count=12&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirmohammadKazemi&layout=compact&langs_count=12&theme=radical) | [![trophy](https://github-profile-trophy.vercel.app/?username=AmirmohammadKazemi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) |
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
