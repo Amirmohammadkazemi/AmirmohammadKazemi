@@ -1,5 +1,5 @@
 ***About me:***
-- Hello friends, I am AmirMohammad (You can call me Shahin or Amir)👋 <img align="center" alt="C" height="60" width="70" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/279/flag-iran_1f1ee-1f1f7.png">
+- Hello friends, I am AmirMohammad (You can call me Shahin or Amir)👋
 - My field of work is Robotics and Artificial Intelligence, Back-End, operating system development and kernel writing
 ##
 <div align="center">
@@ -10,25 +10,37 @@
 <a href = "mailto:shahinmail12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<div align="center">
+<img alt="Linux" height="40" width="120" algin="center" style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</div>
+
 <div align="center" style="display: inline_block">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="opencv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="opencv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
-  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="opencv" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="go" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="opencv" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
+  <img align="center" alt="R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Matlab" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Django" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="firefox" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg">
+  <br>
+  <br>
+  <img algin="center" alt="markdown" height="40" width="40" src="https://cdn.simpleicons.org/markdown/white"/>
+  <img algin="center" alt="github" height="40" width="40" src="https://cdn.simpleicons.org/github/white"/>
 </div>
 
 ##
-
-[![Amirmohammad KAzemi GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AmirmohammadKAzemi&theme=redical)](https://git.io/praveenscience)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirmohammadKAzemi&theme=tokyo-night&area=true&hide_border=true#gh-light-mode-only" width="100%">
+<!--
+https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md
+-->
 
 | ![AmirmohammadKAzemi's github stats](https://github-readme-stats.vercel.app/api?username=AmirmohammadKAzemi&show_icons=true&theme=radical) | ![Amirmohammad Kazemi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmirmohammadKAzemi&theme=radical) |
 | --- | --- |
