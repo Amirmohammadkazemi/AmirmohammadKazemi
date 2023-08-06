@@ -51,4 +51,4 @@ https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.m
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirmohammadKazemi&layout=compact&langs_count=12&theme=radical) | [![trophy](https://github-profile-trophy.vercel.app/?username=AmirmohammadKazemi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) |
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
