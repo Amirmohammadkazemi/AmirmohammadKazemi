@@ -1,10 +1,12 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10FF00&background=FFFFFF00&width=500&lines=Hi+guys+!!!)]()
+
 ***About me:***
 - Hello friends, I am AmirMohammad (You can call me Shahin or Amir)👋
 - My field of work is Robotics and Artificial Intelligence, Back-End, operating system development and kernel writing
 ##
 <div align="center">
 <a href="https://www.youtube.com/channel/UCpZMMVwk9UJFW1Plhv_kw8w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/adventurer_guy12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/shahin.tv1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/happy_geek_guy" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/Amirmohammad_kz" target="_blank"><img src="https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 <a href = "mailto:shahinmail12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -18,25 +20,26 @@
 <div align="center" style="display: inline_block">
   <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="rust" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg">
+  <img align="center" alt="Bash" height="40" width="40" src="https://skillicons.dev/icons?i=bash">
+  <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg">
+  <img align="center" alt="rust" height="40" width="40" src="https://skillicons.dev/icons?i=rust">
   <img align="center" alt="vim" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="raspberrypi" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-  <img align="center" alt="arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img align="center" alt="go" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="opencv" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
-  <img align="center" alt="R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Matlab" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
-  <img align="center" alt="Django" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="nginx" height="40" width="40" src="https://skillicons.dev/icons?i=nginx">
   <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://skillicons.dev/icons?i=github">
+  <img align="center" alt="markdown" height="40" width="40" src="https://skillicons.dev/icons?i=markdown">
   <img align="center" alt="firefox" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg">
-  <br>
-  <br>
-  <img algin="center" alt="markdown" height="40" width="40" src="https://cdn.simpleicons.org/markdown/white"/>
-  <img algin="center" alt="github" height="40" width="40" src="https://cdn.simpleicons.org/github/white"/>
-</div>
+  <br><br>
+  <img align="center" alt="raspberrypi" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" />
+  <img align="center" alt="arduino" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="opencv" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
+  <img align="center" alt="Matlab" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="ROS" height="40" width="40" src="https://skillicons.dev/icons?i=ros">
+  <img align="center" alt="tensorflow" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="pytorch" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+  </div>
 
 ##
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirmohammadKAzemi&theme=tokyo-night&area=true&hide_border=true#gh-light-mode-only" width="100%">
