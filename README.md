@@ -1,8 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10FF00&background=FFFFFF00&width=500&lines=Happy+geek+guy+!!! )]()
 
-***About me:***
-- Hello friends, I am AmirMohammad (You can call me Shahin or Amir)👋
-- My field of work is Robotics and Artificial Intelligence, Back-End, operating system development and kernel writing
+# About me:
+
+Hello friends, I am AmirMohammad (You can call me Shahin or Amir)👋
+
+## My work fields:
+- ***Robotics and Artificial Intelligence***
+- ***Embeded system***
+- ***Operating system & Kernel development***
+- ***System programming***
+- ***Sometimes Back-End***
 ##
 <div align="center">
 <a href="https://www.youtube.com/channel/UCpZMMVwk9UJFW1Plhv_kw8w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
