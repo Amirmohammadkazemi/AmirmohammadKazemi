@@ -27,11 +27,11 @@ Hello friends, I am AmirMohammad (You can call me Shahin or Amir)👋
 <div align="center" style="display: inline_block">
   <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="rust" height="40" width="40" src="https://skillicons.dev/icons?i=rust">
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bash" height="40" width="40" src="https://skillicons.dev/icons?i=bash">
   <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg">
-  <img align="center" alt="rust" height="40" width="40" src="https://skillicons.dev/icons?i=rust">
   <img align="center" alt="vim" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="nginx" height="40" width="40" src="https://skillicons.dev/icons?i=nginx">
   <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
