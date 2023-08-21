@@ -51,7 +51,6 @@ Hello friends, I am AmirMohammad (You can call me Shahin or Amir)👋
   <img align="center" alt="tensorflow" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="pytorch" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
   </div>
-##
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirmohammadKAzemi&theme=tokyo-night&area=true&hide_border=true#gh-light-mode-only" width="100%">
 <!--
 https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md
