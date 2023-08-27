@@ -5,11 +5,13 @@
 Hello friends, I am AmirMohammad (You can call me Shahin or Amir)👋
 
 ## My work fields:
-- ***Robotics and Artificial Intelligence***
-- ***Embeded system***
-- ***Operating system & Kernel development***
+- ***Robotics and Artificial Intelligence and IOT***
+- ***System administration***
 - ***System programming***
-- ***Sometimes Back-End***
+  * ***Embeded systems***
+  * ***Operating System & Kernel development***
+  * ***Programming Language & Kernel development***
+- ***Sometimes Back-End(just django)***
 ##
 <div align="center">
 <a href = "mailto:shahinmail12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
