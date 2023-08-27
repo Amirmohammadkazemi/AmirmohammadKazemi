@@ -6,11 +6,11 @@ Hello friends, I am AmirMohammad (You can call me Shahin or Amir)👋
 
 ## My work fields:
 - ***Robotics and Artificial Intelligence and IOT***
-- ***System administration***
+- ***System Administration***
 - ***System programming***
   * ***Embeded systems***
-  * ***Operating System & Kernel development***
-  * ***Programming Language & Kernel development***
+  * ***OS & Kernel development***
+  * ***Programming Language & Compiler development***
 - ***Sometimes Back-End(just django)***
 ##
 <div align="center">
@@ -31,7 +31,16 @@ Hello friends, I am AmirMohammad (You can call me Shahin or Amir)👋
   <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="rust" height="40" width="40" src="https://skillicons.dev/icons?i=rust">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="lisp" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/1024px-Lisp_logo.svg.png">
   <img align="center" alt="Bash" height="40" width="40" src="https://skillicons.dev/icons?i=bash">
+  <img align="center" alt="raspberrypi" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" />
+  <img align="center" alt="arduino" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="opencv" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
+  <img align="center" alt="Matlab" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="ROS" height="40" width="40" src="https://skillicons.dev/icons?i=ros">
+  <img align="center" alt="tensorflow" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="pytorch" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+ <br><br>
   <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg">
   <img align="center" alt="vim" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -40,14 +49,6 @@ Hello friends, I am AmirMohammad (You can call me Shahin or Amir)👋
   <img align="center" alt="GitHub" height="40" width="40" src="https://skillicons.dev/icons?i=github">
   <img align="center" alt="markdown" height="40" width="40" src="https://skillicons.dev/icons?i=markdown">
   <img align="center" alt="firefox" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg">
-  <br><br>
-  <img align="center" alt="raspberrypi" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" />
-  <img align="center" alt="arduino" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />
-  <img align="center" alt="opencv" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
-  <img align="center" alt="Matlab" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
-  <img align="center" alt="ROS" height="40" width="40" src="https://skillicons.dev/icons?i=ros">
-  <img align="center" alt="tensorflow" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="pytorch" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
   </div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirmohammadKAzemi&theme=tokyo-night&area=true&hide_border=true#gh-light-mode-only" width="100%">
 <!--
