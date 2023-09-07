@@ -28,7 +28,7 @@ Hello friends, I am AmirMohammad (You can call me Shahin or Amir)👋
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg">
   <img align="center" alt="rust" height="40" width="40" src="https://skillicons.dev/icons?i=rust">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lisp" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/1024px-Lisp_logo.svg.png">
