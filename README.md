@@ -8,7 +8,7 @@ Hello friends, I am AmirMohammad (You can call me Shahin or Amir)👋
 - ***Robotics and Artificial Intelligence and IOT***
 - ***System Administration***
 - ***System programming***
-  * ***Embeded systems***
+  * ***Embedded systems***
   * ***OS & Kernel development***
   * ***Programming Language & Compiler development***
 - ***Sometimes Back-End(just django)***
