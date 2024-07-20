@@ -42,7 +42,7 @@ Hello friends, I am AmirMohammad (You can call me Shahin or Amir)👋
   <img align="center" alt="pytorch" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
  <br><br>
   <img align="center" alt="gcc" height="46" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg">
-  <img align="center" alt="fedora" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg">
+  <img align="center" alt="archlinux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
   <img align="center" alt="Cmake" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg">
   <img align="center" alt="vim" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
